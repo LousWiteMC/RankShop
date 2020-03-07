@@ -1,0 +1,8 @@
+###Rank Shop Config###
+###Add ranks in order. start from number 1
+1:
+  PurePerms-Group-Name: "Admin"
+  Cost: 50000
+2:
+  PurePerms-Group-Name: "VIP"
+  Cost: 70000
