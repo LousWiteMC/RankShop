@@ -1,0 +1,19 @@
+#RankShop Language Settings
+
+#Messages when player bought the rank
+Message-When-Bought: "§e[§bRankShop§e] §aYou successfully bought rank {rank} for {cost}\n§e[§bRankShop§e] §aUse it now!"
+Message-Not-Enough-Money: "§e[§bRankShop§e] §cYou don't have enough money to buy rank {rank}\n§e[§bRankShop§e] §bCost: {cost}"
+Message-Had-Rank: "§e[§bRankShop§e] §cYou already have this rank!"
+
+#Display Form when player use /rshop
+ShopForm-Title: "§l§bRanks Shop"
+ShopForm-Content: "§eYour money: {money}\n§aChoose a rank you want to buy!"
+ShopForm-Cost-Line: "§l§6Cost: §d{cost}"
+Exit-Button: "§l§cEXIT"
+
+
+#Display when player accept to buy rank!
+AcceptForm-Title: "§l§bRanks Shop"
+AcceptForm-Content: "§oAre you sure to buy rank {rank}\n§oCost: {cost}"
+AcceptForm-YesButton: "§l§aYes"
+AcceptForm-NoButton: "§l§cNo"
